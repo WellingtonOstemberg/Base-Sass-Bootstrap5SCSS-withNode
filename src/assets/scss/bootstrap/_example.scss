@@ -1,0 +1,6 @@
+/*
+  If you want to change ani file of Bootstrap, copy it from node_modules/bootstrap/scss
+  Because, if you change it in node_modules folder, this change don't persist in github,
+  gitignore don't let it be
+  then change the call of it in your bootstrap file on src/scss/_bootstrap.scss
+*/
